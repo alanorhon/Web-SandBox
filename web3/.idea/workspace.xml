@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fa7a39cc-49be-465c-b61a-b54af8a170df" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - db_example@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - db_example@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - db_example@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="web3: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - db_example@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="web3: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="bank_client: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UfNgEXBiPfyEd6HYCKvNnLOt0O" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="C:/android-sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="dao" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="util" />
+      <recent name="dbService.exception" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Святослав\Documents\codeWork\webTasks\web3" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankClientDAO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dao.BankClientDAO" />
+      <module name="web3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="web3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="web3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="L3.1" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.BankClientDAO" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:MySQL - db_example@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:MySQL - db_example@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@7eee9e66" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa7a39cc-49be-465c-b61a-b54af8a170df" name="Default" comment="" />
+      <created>1562518641007</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562518641007</updated>
+      <workItem from="1562518645981" duration="1087000" />
+      <workItem from="1562570629416" duration="18548000" />
+      <workItem from="1562922368587" duration="6146000" />
+      <workItem from="1575743804596" duration="42000" />
+      <workItem from="1575744193637" duration="2849000" />
+      <workItem from="1575782300078" duration="734000" />
+      <workItem from="1575783131154" duration="9563000" />
+      <workItem from="1575804896012" duration="43409000" />
+      <workItem from="1576062407023" duration="8241000" />
+      <workItem from="1576078042819" duration="3023000" />
+      <workItem from="1576253809887" duration="17000" />
+      <workItem from="1576343236761" duration="284000" />
+      <workItem from="1576348981656" duration="317000" />
+      <workItem from="1576679955205" duration="3516000" />
+      <workItem from="1576768922768" duration="658000" />
+      <workItem from="1577107107779" duration="3650000" />
+      <workItem from="1577203663207" duration="5892000" />
+      <workItem from="1577295799381" duration="2447000" />
+      <workItem from="1577979322906" duration="86000" />
+      <workItem from="1578140486430" duration="235000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="23" key="#Menus_and_Toolbars" timestamp="1575746066160">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="23" key="#Menus_and_Toolbars/0.0.1366.728@0.0.1366.728" timestamp="1575746066160" />
+    <state x="275" y="23" key="#Notifications" timestamp="1575783630989">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="23" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1575783630989" />
+    <state x="275" y="23" key="#Project_Structure" timestamp="1576073343437">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="23" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1576073343437" />
+    <state x="275" y="23" key="#SQL_Dialects" timestamp="1575796312212">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="23" key="#SQL_Dialects/0.0.1366.728@0.0.1366.728" timestamp="1575796312212" />
+    <state x="413" y="119" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1575817879935">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="119" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1575817879935" />
+    <state x="12" y="29" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576769001833">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="12" y="29" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1576769001833" />
+    <state x="413" y="145" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1577107152991">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="145" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1577107152991" />
+    <state x="531" y="252" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1575744903453">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="531" y="252" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1575744903453" />
+    <state x="471" y="249" width="423" height="238" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1577107154749">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="471" y="249" width="423" height="238" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1577107154749" />
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog" timestamp="1575911694189">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1575911694189" />
+    <state x="417" y="126" key="EnvironmentVariablesDialog" timestamp="1575783757056">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="417" y="126" key="EnvironmentVariablesDialog/0.0.1366.728@0.0.1366.728" timestamp="1575783757056" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1577979406189">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1577979406189" />
+    <state width="1323" height="274" key="GridCell.Tab.0.bottom" timestamp="1577118786978">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="274" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577118786978" />
+    <state width="1323" height="274" key="GridCell.Tab.0.center" timestamp="1577118786978">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="274" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1577118786978" />
+    <state width="1323" height="274" key="GridCell.Tab.0.left" timestamp="1577118786978">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="274" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1577118786978" />
+    <state width="1323" height="274" key="GridCell.Tab.0.right" timestamp="1577118786978">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="274" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1577118786978" />
+    <state width="1323" height="288" key="GridCell.Tab.1.bottom" timestamp="1576077627453">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="288" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1576077627453" />
+    <state width="1323" height="288" key="GridCell.Tab.1.center" timestamp="1576077627445">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="288" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1576077627445" />
+    <state width="1323" height="288" key="GridCell.Tab.1.left" timestamp="1576077627445">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="288" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1576077627445" />
+    <state width="1323" height="288" key="GridCell.Tab.1.right" timestamp="1576077627445">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="288" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1576077627445" />
+    <state width="209" height="457" key="HiddenNamespacesPopup" timestamp="1575783561251">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="209" height="457" key="HiddenNamespacesPopup/0.0.1366.728@0.0.1366.728" timestamp="1575783561251" />
+    <state x="213" y="18" key="Maven.ArtifactSearchDialog" timestamp="1575781744233">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="18" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1575781744233" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1575746231112">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1575746231112" />
+    <state x="565" y="254" width="334" height="235" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1576769460288">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="565" y="254" width="334" height="235" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1366.728@0.0.1366.728" timestamp="1576769460288" />
+    <state x="471" y="189" width="423" height="341" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog" timestamp="1576769444105">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="471" y="189" width="423" height="341" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog/0.0.1366.728@0.0.1366.728" timestamp="1576769444105" />
+    <state x="399" y="6" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1576769371741">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="399" y="6" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1576769371741" />
+    <state x="374" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1577979322195">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="374" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1577979322195" />
+    <state x="118" y="60" key="new project wizard" timestamp="1577979407740">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="118" y="60" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1577979407740" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1575912040225">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1575912040225" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/dao/BankClientDAO.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/dao/BankClientDAO.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/dao/BankClientDAO.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/dao/BankClientDAO.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="((ServletHolder)((Config)((MoneyTransactionServlet)servlet).config).this$0)._source" custom="servlet.MoneyTransactionServlet,org.eclipse.jetty.servlet.ServletHolder.Config,org.eclipse.jetty.servlet.ServletHolder" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

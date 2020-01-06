@@ -1,0 +1,60 @@
+POST http://localhost:8080/producer?brand=bmw1&licensePlate=a123aa&model=x5&price=2342341234
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+POST http://localhost:8080/producer?brand=bmw1&licensePlate=a123aa&model=x5&price=2342341234
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+POST http://localhost:8080/producer?brand=bmw&licensePlate=a123aa&model=x5&price=2342341234
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+POST http://localhost:8080/producer?brand=porche&licensePlate=a123aa&model=cayen&price=2342341234
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+POST http://localhost:8080/producer?brand=porche&licensePlate=a123aa&model=cayen&price=2342341234
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+POST http://localhost:8080/producer?brand=bmw&licensePlate=a123aa&model=x5&price=500000
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+POST http://localhost:8080/producer?brand=bmw&licensePlate=a123aa&model=x5&price=500000
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+POST http://localhost:8080/producer?brand=bmw&licensePlate=a123aa&model=x5&price=500000
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+POST http://localhost:8080/producer?brand=bmw&licensePlate=a123aa&model=x5&price=500000
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+POST http://localhost:8080/producer?brand=bmw&licensePlate=a123aa&model=x5&price=500000
+Accept: */*
+Cache-Control: no-cache
+
+###
+

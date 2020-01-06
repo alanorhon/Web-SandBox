@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Web3-transaction</title>
+</head>
+<body>
+<table style=" width: 100%; border: 4px double black;">
+    <tr>
+        <td style="border: 1px solid black; text-align: center">
+            <a href="/registration">Registration</a>
+        </td>
+    </tr>
+</table>
+<form align="center" action="/transaction" method="POST">
+
+    <p>
+        ${message}
+    </p>
+    <input type="text" name="senderName" placeholder="type sender name here"><br>
+    <input type="password" name="senderPass" placeholder="type sender password here"><br>
+    <input type="number" name="count" placeholder="type transfer amount here"><br>
+    <input type="text" name="nameTo" placeholder="type beneficial name here"><br>
+<br/>
+<br/>
+    <input type="submit" value="Transfer">
+</form>
+</body>
+</html>
